@@ -32,8 +32,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    self.title = @"Main View";
-
+    
 	// Do any additional setup after loading the view.
 }
 
